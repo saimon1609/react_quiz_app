@@ -1,0 +1,134 @@
+{
+  "videos": {
+    "1": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 1",
+      "noq": 4
+    },
+    "2": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 2",
+      "noq": 4
+    },
+    "3": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 3",
+      "noq": 4
+    },
+    "4": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 4",
+      "noq": 4
+    },
+    "5": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 5",
+      "noq": 4
+    },
+    "6": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 6",
+      "noq": 4
+    },
+    "7": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 7",
+      "noq": 4
+    },
+    "8": {
+      "youtubeID": "1b7wT1gVU7Y",
+      "title": "React Tutorial 8",
+      "noq": 4
+    }
+  },
+
+  "quiz": {
+    "1b7wT1gVU7Y": {
+      "question": [
+        {
+          "title": "How to declare javascript variable?",
+          "options": [
+            {
+              "title": "with var"
+            },
+            {
+              "title": "with let"
+            },
+            {
+              "title": "with const"
+            },
+            {
+              "title": "with variable"
+            }
+          ]
+        },
+        {
+          "title": "what is react?",
+          "options": [
+            {
+              "title": "javascript library"
+            },
+            {
+              "title": "a book"
+            },
+            {
+              "title": "an app"
+            },
+            {
+              "title": "a variable"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "answers": {
+    "1b7wT1gVU7Y": {
+      "questions": [
+        {
+          "title": "How to declare javascript variables?",
+          "options": [
+            {
+              "title": "with var",
+              "correct": true
+            },
+            {
+              "title": "with let",
+              "correct": true
+            },
+            {
+              "title": "with const",
+              "correct": true
+            },
+            {
+              "title": "with variable",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "what is react?",
+          "options": [
+            {
+              "title": "javascript library",
+              "correct": true
+            },
+            {
+              "title": "a book",
+              "correct": false
+            },
+            {
+              "title": "an app",
+              "correct": false
+            },
+            {
+              "title": "a variable",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
